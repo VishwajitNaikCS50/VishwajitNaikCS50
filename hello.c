@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    printf("hello, world\n");
+    string answer = get_string("what's is your name? ");
+    printf("hello, %s\n", answer);
 }
-answer = get_string("what's is your name? ");
-printf("hello, %s\n" , answer);
