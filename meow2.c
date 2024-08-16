@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-void meow(void);
+void meow(int n);
 
 int main(void)
 {
