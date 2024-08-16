@@ -11,7 +11,7 @@ int main(void)
     }
 }
 
-void meow(void)
+void meow(int n)
 {
     printf("meow\n");
 }
