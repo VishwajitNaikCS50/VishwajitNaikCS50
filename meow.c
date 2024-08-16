@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-void.meow(void);
+void meow(void);
 
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
     }
 }
 
-void.meow(void)
+void meow(void)
 {
     printf("meow\n");
 }
