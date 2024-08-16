@@ -12,7 +12,9 @@ int main(void)
 }
 
 void meow(int n)
-    for (int i = 0; i < n; i++)
 {
-    printf("meow\n");
+    for (int i = 0; i < n; i++)
+    {
+        printf("meow\n");
+    }
 }
