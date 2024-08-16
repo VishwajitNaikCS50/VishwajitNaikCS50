@@ -5,10 +5,7 @@ void meow(int n);
 
 int main(void)
 {
-    for (int i = 0; i < 3; i++)
-    {
-        meow();
-    }
+    meow(10);
 }
 
 void meow(int n)
