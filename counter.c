@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int counter = 3;
+    int counter = 5;
     while (counter > 0)
     {
         printf("Meow\n");
